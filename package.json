@@ -1,0 +1,17 @@
+{
+  "name": "bayshore_healthcare",
+  "version": "1.0.0",
+  "description": "Assessment(Create an express node application using Node, Express, and MongoDB)",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "author": "Younggil (Gil)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "mongoose": "^7.5.2"
+  }
+}
